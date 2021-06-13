@@ -1,4 +1,4 @@
-# BUSCAMINAS
+# SPRITE
 _Un pequeño proyectito en el cual se hizo pruebas para animar sprites con JavaScript y CSS_
 
 _[DEMO](https://dbarrerapalacios.github.io/animacion-sprite-pruebas/)_
